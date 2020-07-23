@@ -1,0 +1,10 @@
+{
+  "index": {
+    "fields": [
+      "studentInfo.acctId"
+    ]
+  },
+  "ddoc": "indexStudentAcctIdDoc",
+  "name": "indexStudentAcctId",
+  "type": "json"
+}

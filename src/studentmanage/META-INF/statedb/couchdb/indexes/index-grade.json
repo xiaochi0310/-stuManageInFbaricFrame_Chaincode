@@ -1,0 +1,10 @@
+{
+  "index": {
+    "fields": [
+      "studentInfo.grade"
+    ]
+  },
+  "ddoc": "indexStudentGradeDoc",
+  "name": "indexStudentGrade",
+  "type": "json"
+}
